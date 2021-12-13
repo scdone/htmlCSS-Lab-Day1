@@ -1,0 +1,35 @@
+* {font-family: 'Martel', serif;}
+img {
+    display: block;
+    max-width:400px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    border: solid #F7B32B 5px;
+  }
+
+body {
+    background-color: #848586 ;
+}
+
+  h1 {
+      text-align:center;
+      background-color: #0FA3B1;
+      color: white;
+  }
+
+  h2 {
+      text-align: center;
+      background-color: #0FA3B1;
+      color: white
+  }
+
+  h3 {
+      text-align: center;
+      background-color: #2B2D42 ;
+      color:white;
+  }
+
+  h2 > spam {
+      text-align: center;
+  }
